@@ -1,0 +1,1 @@
+These projects are intended to show some cool DS abilities and grow my skillset on techniques I don't encounter at work! Right now I've only gotten a basic ML exploration done on some OKCupid data, which can be found in the `okcupid_data` directory. I'll be adding a project on NLP and imagine recognition at some point in the near future, but they're not quite ready yet!
